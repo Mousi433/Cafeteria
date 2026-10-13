@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="Cafeteria.csproj" />
+  <Folder Name="/Elementos de la solución/">
+    <Project Path="Cafeteria.csproj" />
+  </Folder>
 </Solution>
